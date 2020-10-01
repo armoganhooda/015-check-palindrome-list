@@ -1,4 +1,4 @@
-# Find out whether a list is a palindrome
+# Find out whether a list is a palindrome or not.
 
 **Notes:**
 * Define a function which will accept list as parameter.
